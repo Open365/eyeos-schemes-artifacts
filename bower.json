@@ -1,0 +1,17 @@
+{
+  "name": "eyeos-schemes",
+  "version": "0.0.39",
+  "description": "eyeos path translator",
+  "authors": [
+    "eyeOS"
+  ],
+  "main": [
+    "build-browser/eyeos-schemes.js"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src/test"
+  ],
+  "license": "AGPL-3.0"
+}
